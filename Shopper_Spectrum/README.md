@@ -1,1 +1,8 @@
+# Shopper Spectrum: Customer Segmentation and Product Recommendations
+
+This project explores e-commerce transaction data to:
+- Build RFM-based customer segments
+- Apply clustering (KMeans)
+- Implement item-based collaborative filtering product recommendations
+- Expose key features through a Streamlit app
 
