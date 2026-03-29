@@ -1,0 +1,281 @@
+Year,Quarter,State,Registered_Users
+2023,2,maharashtra,60766850
+2023,2,uttar pradesh,49829833
+2023,2,karnataka,39122314
+2023,2,andhra pradesh,30240061
+2023,2,rajasthan,29745609
+2023,2,west bengal,27827662
+2023,2,telangana,27814633
+2023,2,tamil nadu,27317599
+2023,2,madhya pradesh,25042930
+2023,2,gujarat,24396768
+2023,3,maharashtra,63150997
+2023,3,uttar pradesh,51870932
+2023,3,karnataka,40634390
+2023,3,andhra pradesh,31493897
+2023,3,rajasthan,30997182
+2023,3,west bengal,28966414
+2023,3,telangana,28896668
+2023,3,tamil nadu,28405436
+2023,3,madhya pradesh,26109033
+2023,3,gujarat,25383429
+2023,4,maharashtra,65422120
+2023,4,uttar pradesh,53799813
+2023,4,karnataka,42031396
+2023,4,andhra pradesh,32658698
+2023,4,rajasthan,32157348
+2023,4,west bengal,30064546
+2023,4,telangana,29902636
+2023,4,tamil nadu,29452801
+2023,4,madhya pradesh,27078072
+2023,4,gujarat,26312655
+2023,1,maharashtra,58470784
+2023,1,uttar pradesh,47806049
+2023,1,karnataka,37681426
+2023,1,andhra pradesh,29065863
+2023,1,rajasthan,28523031
+2023,1,telangana,26804259
+2023,1,west bengal,26732895
+2023,1,tamil nadu,26270663
+2023,1,madhya pradesh,24002818
+2023,1,gujarat,23436230
+2021,2,maharashtra,39664697
+2021,2,uttar pradesh,31651894
+2021,2,karnataka,25751023
+2021,2,andhra pradesh,19620905
+2021,2,rajasthan,18980985
+2021,2,telangana,18306880
+2021,2,west bengal,17979979
+2021,2,tamil nadu,17804542
+2021,2,madhya pradesh,15940935
+2021,2,gujarat,15735981
+2021,3,maharashtra,42581217
+2021,3,uttar pradesh,34151882
+2021,3,karnataka,27614221
+2021,3,andhra pradesh,21059898
+2021,3,rajasthan,20499465
+2021,3,telangana,19615278
+2021,3,west bengal,19323278
+2021,3,tamil nadu,19127440
+2021,3,madhya pradesh,17210233
+2021,3,gujarat,16946761
+2021,4,maharashtra,45482506
+2021,4,uttar pradesh,36617655
+2021,4,karnataka,29459646
+2021,4,andhra pradesh,22489029
+2021,4,rajasthan,21977202
+2021,4,telangana,20917649
+2021,4,west bengal,20644527
+2021,4,tamil nadu,20433142
+2021,4,madhya pradesh,18456243
+2021,4,gujarat,18139201
+2021,1,maharashtra,37077537
+2021,1,uttar pradesh,29482075
+2021,1,karnataka,24095832
+2021,1,andhra pradesh,18363733
+2021,1,rajasthan,17661088
+2021,1,telangana,17149069
+2021,1,west bengal,16808799
+2021,1,tamil nadu,16632608
+2021,1,madhya pradesh,14839427
+2021,1,gujarat,14670126
+2018,2,maharashtra,8222371
+2018,2,uttar pradesh,6442554
+2018,2,karnataka,5030665
+2018,2,andhra pradesh,4402540
+2018,2,telangana,4260115
+2018,2,rajasthan,4212964
+2018,2,west bengal,3833795
+2018,2,gujarat,3565825
+2018,2,madhya pradesh,3441662
+2018,2,bihar,3005872
+2018,3,maharashtra,10435033
+2018,3,uttar pradesh,8096483
+2018,3,karnataka,6372649
+2018,3,andhra pradesh,5427617
+2018,3,rajasthan,5175453
+2018,3,telangana,5138501
+2018,3,west bengal,4851740
+2018,3,gujarat,4433183
+2018,3,madhya pradesh,4309309
+2018,3,tamil nadu,3900177
+2018,4,maharashtra,13381602
+2018,4,uttar pradesh,10341964
+2018,4,karnataka,8315802
+2018,4,andhra pradesh,6857409
+2018,4,telangana,6529679
+2018,4,rajasthan,6358738
+2018,4,west bengal,6279278
+2018,4,gujarat,5579040
+2018,4,madhya pradesh,5365442
+2018,4,tamil nadu,5199878
+2018,1,maharashtra,6106994
+2018,1,uttar pradesh,4694250
+2018,1,karnataka,3717763
+2018,1,andhra pradesh,3336450
+2018,1,telangana,3315560
+2018,1,rajasthan,3158202
+2018,1,gujarat,2690048
+2018,1,west bengal,2604789
+2018,1,madhya pradesh,2553603
+2018,1,bihar,2133804
+2019,2,maharashtra,18776975
+2019,2,uttar pradesh,14316349
+2019,2,karnataka,11968087
+2019,2,andhra pradesh,9389003
+2019,2,telangana,9046007
+2019,2,rajasthan,8783935
+2019,2,west bengal,8612795
+2019,2,gujarat,7574645
+2019,2,tamil nadu,7429609
+2019,2,madhya pradesh,7301172
+2019,3,maharashtra,21313081
+2019,3,uttar pradesh,16044607
+2019,3,karnataka,13635075
+2019,3,andhra pradesh,10458693
+2019,3,telangana,10090557
+2019,3,rajasthan,9797304
+2019,3,west bengal,9643222
+2019,3,gujarat,8429299
+2019,3,tamil nadu,8428835
+2019,3,madhya pradesh,8180664
+2019,4,maharashtra,23745297
+2019,4,uttar pradesh,17949542
+2019,4,karnataka,15385416
+2019,4,andhra pradesh,11757883
+2019,4,telangana,11220691
+2019,4,rajasthan,10925031
+2019,4,west bengal,10885058
+2019,4,tamil nadu,9620493
+2019,4,gujarat,9323799
+2019,4,madhya pradesh,9165241
+2019,1,maharashtra,16284451
+2019,1,uttar pradesh,12458661
+2019,1,karnataka,10266174
+2019,1,andhra pradesh,8283019
+2019,1,telangana,7963425
+2019,1,rajasthan,7712204
+2019,1,west bengal,7449425
+2019,1,gujarat,6652536
+2019,1,madhya pradesh,6414403
+2019,1,tamil nadu,6296303
+2020,2,maharashtra,28765086
+2020,2,uttar pradesh,22498519
+2020,2,karnataka,18655366
+2020,2,andhra pradesh,14319675
+2020,2,rajasthan,13563201
+2020,2,telangana,13378191
+2020,2,west bengal,13222022
+2020,2,tamil nadu,12150786
+2020,2,gujarat,11392657
+2020,2,madhya pradesh,11374423
+2020,3,maharashtra,31409513
+2020,3,uttar pradesh,24838116
+2020,3,karnataka,20487550
+2020,3,andhra pradesh,15692405
+2020,3,rajasthan,14969412
+2020,3,telangana,14590882
+2020,3,west bengal,14448366
+2020,3,tamil nadu,13643451
+2020,3,madhya pradesh,12564224
+2020,3,gujarat,12467847
+2020,4,maharashtra,34432631
+2020,4,uttar pradesh,27249134
+2020,4,karnataka,22400182
+2020,4,andhra pradesh,17076565
+2020,4,rajasthan,16329494
+2020,4,telangana,15927797
+2020,4,west bengal,15662093
+2020,4,tamil nadu,15357586
+2020,4,madhya pradesh,13737947
+2020,4,gujarat,13605203
+2020,1,maharashtra,26168390
+2020,1,uttar pradesh,20136256
+2020,1,karnataka,17016980
+2020,1,andhra pradesh,13022060
+2020,1,telangana,12306860
+2020,1,rajasthan,12142053
+2020,1,west bengal,11960822
+2020,1,tamil nadu,10872368
+2020,1,gujarat,10259843
+2020,1,madhya pradesh,10151371
+2024,2,maharashtra,70597223
+2024,2,uttar pradesh,58199149
+2024,2,karnataka,45290606
+2024,2,andhra pradesh,35303719
+2024,2,rajasthan,34773619
+2024,2,west bengal,32540397
+2024,2,telangana,32232171
+2024,2,tamil nadu,31818880
+2024,2,madhya pradesh,29324466
+2024,2,gujarat,28439885
+2024,3,maharashtra,69641161
+2024,3,uttar pradesh,67922000
+2024,3,karnataka,44548391
+2024,3,rajasthan,35583171
+2024,3,west bengal,33612828
+2024,3,tamil nadu,32965209
+2024,3,bihar,31899315
+2024,3,madhya pradesh,31764084
+2024,3,telangana,30776242
+2024,3,andhra pradesh,29145303
+2024,4,maharashtra,71807805
+2024,4,uttar pradesh,70474113
+2024,4,karnataka,45917653
+2024,4,rajasthan,36828375
+2024,4,west bengal,34750181
+2024,4,tamil nadu,33966610
+2024,4,bihar,33345285
+2024,4,madhya pradesh,32876660
+2024,4,telangana,31726856
+2024,4,andhra pradesh,29984431
+2024,1,maharashtra,68016876
+2024,1,uttar pradesh,56028765
+2024,1,karnataka,43668141
+2024,1,andhra pradesh,34008709
+2024,1,rajasthan,33505514
+2024,1,west bengal,31306843
+2024,1,telangana,31082447
+2024,1,tamil nadu,30638750
+2024,1,madhya pradesh,28238554
+2024,1,gujarat,27381972
+2022,2,maharashtra,50802786
+2022,2,uttar pradesh,41247289
+2022,2,karnataka,32831447
+2022,2,andhra pradesh,25157264
+2022,2,rajasthan,24716181
+2022,2,telangana,23314363
+2022,2,west bengal,23124388
+2022,2,tamil nadu,22829720
+2022,2,madhya pradesh,20766417
+2022,2,gujarat,20321596
+2022,3,maharashtra,53432602
+2022,3,uttar pradesh,43537920
+2022,3,karnataka,34493994
+2022,3,andhra pradesh,26496330
+2022,3,rajasthan,26042948
+2022,3,telangana,24506111
+2022,3,west bengal,24372048
+2022,3,tamil nadu,24019964
+2022,3,madhya pradesh,21884220
+2022,3,gujarat,21394721
+2022,4,maharashtra,55954028
+2022,4,uttar pradesh,45648650
+2022,4,karnataka,36081698
+2022,4,andhra pradesh,27778016
+2022,4,rajasthan,27255927
+2022,4,telangana,25656381
+2022,4,west bengal,25536381
+2022,4,tamil nadu,25136112
+2022,4,madhya pradesh,22913924
+2022,4,gujarat,22412353
+2022,1,maharashtra,48227630
+2022,1,uttar pradesh,38999692
+2022,1,karnataka,31200349
+2022,1,andhra pradesh,23857951
+2022,1,rajasthan,23398857
+2022,1,telangana,22150612
+2022,1,west bengal,21919787
+2022,1,tamil nadu,21667020
+2022,1,madhya pradesh,19656147
+2022,1,gujarat,19265314
